@@ -9,7 +9,7 @@ pkg update -y &>/dev/null
 pkg install php curl git screen wget openssh -y &>/dev/null
 
 # Clone + Setup
-git clone https://github.com/yourusername/termux-dao-oneclick.git dao
+git clone https://github.com/AS-1483/termux-dao-oneclick.git dao
 cd dao
 
 # Permissions
